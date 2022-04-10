@@ -1,0 +1,15 @@
+{
+  "name": "azure-status",
+  "version": "1.0.0",
+  "description": "Azure status tracking using automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Thapa",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.20.1",
+    "prettier": "^2.6.0"
+  }
+}
